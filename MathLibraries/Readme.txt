@@ -1,0 +1,4 @@
+Porównanie wydajnoœæi bibliotek matematycznych
+DirectXMath
+GLM
+GLM rozszerzenie simd
