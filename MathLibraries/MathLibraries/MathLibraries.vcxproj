@@ -160,6 +160,7 @@
     <ClCompile Include="Code\GLMObservalble.cpp" />
     <ClCompile Include="Code\GLMsimdAVX2Observable.cpp" />
     <ClCompile Include="Code\GLMsimdAVXObservable.cpp" />
+    <ClCompile Include="Code\GLMsimdMultFun.cpp" />
     <ClCompile Include="Code\GLMsimdObservable.cpp" />
     <ClCompile Include="Code\GLMsimdSSE3Observable.cpp" />
     <ClCompile Include="Code\main.cpp" />
